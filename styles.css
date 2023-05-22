@@ -1,0 +1,35 @@
+html {
+    border: 10px ridge black;
+}
+
+h1, h2, p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.bottomborder {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 2px dotted black;
+}
+
+.fullborder {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-top: 2px dotted black;
+    border-bottom: 2px dotted black;
+}
+
+.homepage {
+    margin-top: 50px;
+}
+
+a:link {
+    
+    color:goldenrod;
+}
+
+a:visited {
+    color:darkgoldenrod;
+}
